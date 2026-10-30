@@ -1,8 +1,5 @@
-__pycache__/
-*.pyc
-*.egg-info/
-.pytest_cache/
-build/
-dist/
-.venv/
-*.whl
+# build output
+/bin/
+*.test
+*.out
+coverage.*
